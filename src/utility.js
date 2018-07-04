@@ -4,4 +4,7 @@
  * 
  */
 
-export const test = 'test';
+ export const fun = () => {
+     return true;
+ };
+ 
